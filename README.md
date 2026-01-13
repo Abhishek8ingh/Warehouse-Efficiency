@@ -1,6 +1,8 @@
 # InventorySync 📦
 ### Smart Warehouse Efficiency Dashboard
 
+![Dashboard Preview]([dashboard_screenshot.png](https://github.com/Abhishek8ingh/Warehouse-Efficiency/blob/main/InventorySync%20%F0%9F%93%A6.png))
+
 ## 📌 Project Overview
 **InventorySync** is an interactive data analytics dashboard designed to optimize warehouse operations. It automates the process of cleaning, integrating, and analyzing inventory data to help businesses track stock levels, monitor order frequency, and predict future product demand.
 
@@ -34,6 +36,5 @@ The system uses **Machine Learning (Random Forest)** to forecast orders and prov
  ┣ 📜 requirements.txt        # List of dependencies
  ┗ 📜 README.md               # Project documentation
 
-## Screenshot
-![Dashboard Preview]([dashboard_screenshot.png](https://github.com/Abhishek8ingh/Warehouse-Efficiency/blob/main/InventorySync%20%F0%9F%93%A6.png))
+
 
