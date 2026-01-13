@@ -33,3 +33,6 @@ The system uses **Machine Learning (Random Forest)** to forecast orders and prov
  ┣ 📜 utils.py                # Helper functions for plotting
  ┣ 📜 requirements.txt        # List of dependencies
  ┗ 📜 README.md               # Project documentation
+
+## Screenshot
+![](https://github.com/Abhishek8ingh/Warehouse-Efficiency/blob/main/InventorySync%20%F0%9F%93%A6.png)
